@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name": "Arslan Gait",
+    "occupation": "Software Engineer",
+    "description": "I am trying to seize every opportunity I face, while being a lifelong learner and researcher.",
+    "image": "photo.jpg",
+    "bio": "I love coding and experimenting with the new technologies. A Java programmer, now I'm also interested in other backend programming languages and frameworks such as Python Django and Golang.",
+    "contactmessage": "I most of the time use Telegram for quick messaging. Feel free to contact me there :)",
+    "email": "arslan.gait@nu.edu.kz",
+    "phone": "+7-708-219-09-96",
+    "address": {
+      "street": "130 Duldul St.",
+      "city": "Almaty",
+      "state": "Kazakhstan",
+      "zip": "050039"
+    },
+    "website": "website",
+    "resumedownload": "resume",
+    "social": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/arslan_gait",
+        "className": "fa fa-telegram"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/arslan-gait/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/arslan-gait",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Nazarbayev University",
+        "degree": "B.Sc. in Computer Science, Cum Laude, GPA: 3.67/4.00",
+        "graduated": "June 2020",
+        "description": "A 4 year program taught me to be a thinker. Being a good student, I also engaged in social activities including volunteering at ACM Student Chapter and participation in local ACM ICPC Quarterfinal."
+      },
+      {
+        "school": "Kazakh-Turkish High School",
+        "degree": "General program + intensive Math and Physics, GPA: 5.00/5.00",
+        "graduated": "May 2015",
+        "description": "Intensive studying of Math and Physics helped me to participate in various school olympiads, some of which were successfull."
+      }
+    ],
+    "work": [
+      {
+        "company": "Sberbank Kazakhstan",
+        "title": "Backend Developer",
+        "years": "August 2020 - Present",
+        "description": "Working on internal banking system (bus). Java."
+      },
+      {
+        "company": "Halyk Bank",
+        "title": "Full-Stack Engineer",
+        "years": "June 2020 - July 2020",
+        "description": "Worked on a web application helping onboarding of new clients. Kotlin, Angular, Spring Framework, Hibernate, Kafka, Redis, PostgreSQL, nginx, Docker."
+      },
+      {
+        "company": "IT Invest Group",
+        "title": "Full-Stack Engineer",
+        "years": "January 2020 - May 2020",
+        "description": "Implementing a web application helping employees in judicial system. JavaEE, AngularJS, Hibernate, PostgreSQL, nginx."
+      },
+      {
+        "company": "Nazarbayev University",
+        "title": "Research Assistant",
+        "years": "January 2020 - September 2020",
+        "description": "Conducted research in EEG Hyperscanning utilizing machine learning and Signal Processing. Research paper published in IEEE."
+      },
+      {
+        "company": "Suleiman Demirel University",
+        "title": "Research Intern",
+        "years": "January 2020 - September 2020",
+        "description": "Conducted research and worked on development of the first Natural Language Toolkit for Kazakh"
+      }
+    ],
+    "publications": [
+      {
+        "company": "Inter-subject correlations during natural viewing: A filter-bank approach*",
+        "title": "IEEE",
+        "years": "27 August 2020",
+        "description": "A. Gait, V. Duisenbinov, M. Lee, F. Bießmann and S. Fazli, “Inter-subject correlations during natural viewing: A filter-bank approach*”, 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Montreal, QC, Canada, 2020, pp. 200-203",
+        "link": "https://doi.org/10.1109/EMBC44109.2020.9176083",
+        "doi": "doi: 10.1109/EMBC44109.2020.9176083"
+      }
+    ],
+    "social": [
+      {
+        "company": "Certificate of Participation",
+        "title": "IEEE",
+        "years": "21-23 July 2020",
+        "description": "IEEE EMBC 2020 Virtual Conference in Montreal, Canada."
+      },
+      {
+        "company": "ACM ICPC Participant",
+        "title": "ACM ICPC",
+        "years": "Fall 2018",
+        "description": "Kazakhstan Quarterfinal participant."
+      },
+      {
+        "company": "Volunteer",
+        "title": "ACM Student Chapter at Nazarbayev University",
+        "years": "Fall 2017",
+        "description": "Mentored a group of 5 students during their programming courses. Helped with Data Structures in C and Java."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "C++",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "Angular",
+        "level": "40%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Project Title",
+        "category": "Project Category",
+        "image": "Project image",
+        "url": "Project url"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Arslan has the ability to learn new things very quickly and his analytical skills will play a key role on his way of becoming an expert in the field of Computer Science.",
+        "user": "Siamac Fazli, PhD, Associate professor at School of Engineering and Digital Sciences, Nazarbayev University"
+      },
+      {
+        "text": "Arslan has a good analytical thinking and capacity. He can work alone and in team, and complete assigned tasks in time.",
+        "user": "Sain Saginbekov, PhD, Assistant professor at School of Engineering and Digital Sciences, Nazarbayev University"
+      }
+    ]
+  }
+}
