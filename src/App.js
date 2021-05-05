@@ -1,21 +1,17 @@
 import React from 'react';
-import Header from './Components/Header';
-import Footer from './Components/Footer';
-import About from './Components/About';
-import Resume from './Components/Resume';
-import Testimonials from './Components/Testimonials';
-import resumeData from './resumeData.json'
+import { BrowserRouter as Router, Route } from 'react-router-dom'
+import Home from './Components/Home';
+
+import ReactGA from 'react-ga';
+const TRACKING_ID = "UA-196424021-1"; // YOUR_OWN_TRACKING_ID
+ReactGA.initialize(TRACKING_ID);
 
 const App = () => {
-    return (
-        <div className="App">
-            <Header data={resumeData.main} />
-            <About data={resumeData.main} />
-            <Resume data={resumeData.resume} />
-            <Testimonials data={resumeData.testimonials} />
-            <Footer data={resumeData.main} />
-        </div>
-    );
+  return (
+    <Router>
+      <Route exact path="/" component={Home} />
+    </Router>
+  );
 }
 
 export default App;

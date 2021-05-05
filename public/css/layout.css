@@ -309,6 +309,12 @@ ul#nav li.current a {
   margin-bottom: 18px;
   margin-top: 9px;
 }
+#resume .techStack {
+  font: 16px "opensans-italic", serif;
+  color: #6e7881;
+  margin-bottom: 18px;
+  margin-top: 9px;
+}
 #resume .info span {
   margin-right: 5px;
   margin-left: 5px;
